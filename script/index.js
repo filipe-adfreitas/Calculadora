@@ -20,4 +20,4 @@ function calcular() {
      else {
         document.getElementById('visor').innerHTML = "0";
     }
-}
+};
